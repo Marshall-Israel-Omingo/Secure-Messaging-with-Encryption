@@ -1,6 +1,6 @@
 
 # Secure Hashing Algorithm in Javascript
-<img src="pics/lesh.png">
+<img src="lesh.png">
 
 ## Description
 This JavaScript code provides secure hashing algorithms for generating cryptographic hashes. It supports SHA256, SHA512, and MD5 hashing algorithms. This library ensures data integrity and security through robust hashing methods.
